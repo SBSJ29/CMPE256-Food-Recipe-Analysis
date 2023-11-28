@@ -1,5 +1,6 @@
 # CMPE256-Food-Recipe-Analysis
 Our project was a food recipe recommendation system based off of the Food.com recipe and reviews dataset. Our group developed both content-based and collaborative filtering based recommendation systems to accomplish these tasks.
+Supplementally, we implemented sentiment analysis to inspect reviews and trained a classifier to predict a rating based on text descriptions.
 We even attempted to create a hybrid content-based and collaborative filtering based recommendation system by combining our content-based approach with a user-based collaborative filtering approach.
 
 Team members: Ganesh Susarla, Auni Bagchi, Hongjin Cheng
